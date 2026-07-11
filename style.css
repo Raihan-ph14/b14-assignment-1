@@ -48,3 +48,27 @@
     text-decoration: none;
     
 }
+
+.subscription{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+#membership{
+    display: flex;
+    justify-content: center;
+}
+
+.button-footer{
+    height: 30px;
+    width: 150px;
+    /* display: flex;
+    justify-content: center; */
+    border-radius: 20px;
+    margin-left: 50px;
+}
+#one{
+    margin-left: 95px;
+}
