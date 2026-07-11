@@ -105,3 +105,12 @@
     justify-content: space-around;
     color: white;
 }
+
+#id{
+    height: 786px;
+    width: 1400px;
+    background-image: url("./img/assets/co.jpg");
+     margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
