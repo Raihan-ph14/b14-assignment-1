@@ -84,3 +84,14 @@
       flex-direction: column;
     color: white;
 }
+
+#head-button{
+    height: 75px;
+    width: 280px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    margin: auto;
+}
