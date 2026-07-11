@@ -19,3 +19,32 @@
     font-size: 16px;
     border-radius: 12px;
 }
+
+
+#meet{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+/* meet the guest */
+.container {
+    width: 800px;
+        margin-left: 320px;
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 columns */
+  grid-template-rows: 1fr 1fr;    /* 2 rows */
+  gap: 10px;                      /* space between boxes */
+}
+
+.box {
+    display: grid;
+    justify-items: start;
+
+  padding: 20px;
+  /* text-align: center; */
+}
+.style{
+    list-style: none; 
+    text-decoration: none;
+    
+}
