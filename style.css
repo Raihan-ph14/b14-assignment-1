@@ -96,6 +96,12 @@
     margin: auto;
 }
 
-.footer{
+.foot{
     background-color: navy;
+    height: 180px;
+    width: 1500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    color: white;
 }
