@@ -75,6 +75,12 @@
 .hero{
 
     height: 786px;
-    width: 1550px;
+    width: 1400px;
     background-image: url("./img/assets/banner.jpg");
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+      flex-direction: column;
+    color: white;
 }
