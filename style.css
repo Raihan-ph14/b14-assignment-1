@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list-item{
+    list-style: none; 
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.button{
+    background-color: blue;
+    width: 192px;
+    height: 56px;
+    color: white;
+    font-size: 16px;
+    border-radius: 12px;
+}
