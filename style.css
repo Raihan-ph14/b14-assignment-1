@@ -72,3 +72,9 @@
 #one{
     margin-left: 95px;
 }
+.hero{
+
+    height: 786px;
+    width: 1550px;
+    background-image: url("./img/assets/banner.jpg");
+}
